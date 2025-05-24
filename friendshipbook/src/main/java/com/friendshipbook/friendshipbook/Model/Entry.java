@@ -1,4 +1,4 @@
-package com.friendshipbook.friendshipbook;
+package com.friendshipbook.friendshipbook.Model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
